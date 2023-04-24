@@ -13,8 +13,10 @@ hr {
     border-color:magenta ;
  }   
  img:hover{
-    background-color:saddlebrown;
-    border-radius: 90px;
+    /*background-color:saddlebrown;*/
+    border-radius: 100%;
+    border:5px solid saddlebrown;
+    
  }   
 h1{
     color:darkslateblue;
